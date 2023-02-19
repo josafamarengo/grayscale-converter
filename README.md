@@ -55,6 +55,10 @@
 
 Python script to convert images to grayscale, using the Pillow library.
 
+| Input                                   | Output                                           |
+|-----------------------------------------|--------------------------------------------------|
+| ![Colorful](./Data/Input/colorful.jpeg) | ![Grayscale](./Data/Output/grayscaled-image.jpg) |
+
 ### Built With
 
 ![Python][Python]
